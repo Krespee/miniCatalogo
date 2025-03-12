@@ -1,3 +1,5 @@
+import "../App.css";
+
 function SearchBar({ search, onSearch }) {
     return (
       <input 
